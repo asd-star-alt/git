@@ -8,5 +8,6 @@ __pycache__/
 *.py[cod]
 
 # Editor and operating-system metadata
+.idea/
 .DS_Store
 Thumbs.db
