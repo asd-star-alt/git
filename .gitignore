@@ -1,0 +1,12 @@
+# Simulation runtime data and analysis products
+/data/
+/outputs/
+/work/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system metadata
+.DS_Store
+Thumbs.db

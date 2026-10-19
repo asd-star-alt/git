@@ -1,0 +1,5 @@
+<routes>
+    <vType id="connected_car" accel="2.6" decel="4.5" length="5" minGap="2.5" maxSpeed="33.33" sigma="0.25"/>
+    <route id="west_to_east" edges="west_rsu rsu_east"/>
+    <route id="east_to_west" edges="east_rsu rsu_west"/>
+</routes>

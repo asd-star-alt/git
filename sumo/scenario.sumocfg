@@ -1,0 +1,9 @@
+<configuration>
+    <input>
+        <net-file value="edge_network.net.xml"/>
+        <route-files value="routes.rou.xml"/>
+    </input>
+    <time>
+        <step-length value="0.1"/>
+    </time>
+</configuration>
